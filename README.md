@@ -10,12 +10,19 @@
 
   [Description](#description) | [License](#license) | [Questions](#questions)
 
+  SVG jest test pass and SVG created
+
+  ![Image of deployed site 1](./images/svg.jpg "Deployed site")
+
+  SVG in broswer
+
+  ![Image of deployed site 1](./images/svg2.jpg "Deployed site")
+
   ## License
   
   License: MIT
 
   [<img src="https://img.shields.io/badge/License-MIT-yellow.svg">](https://opensource.org/licenses/MIT)
-  
   
   ## Questions
 
@@ -23,4 +30,5 @@
 
   GitHub Repo: https://github.com/mbrown50/my-SVG
 
-  Video: <### TBD ###>
+  Video: https://drive.google.com/file/d/17CmAY6uvZSofQ-Udou2a5Ayw6Gogy59R/view?usp=sharing
+  

@@ -3,13 +3,10 @@ const fs = require('fs');
 const drawShape = require('./lib/drawShape.js')
 
 const filepath = "./SVG/";
-let filename = "";
 
 function saveSVG(data) {
-    console.log("saveSVG fs");
     const svgShape = drawShape(data);
-    console.log("svgShape", svgShape);
-    fs.writeFile(filepath + filename + '.svg', svgShape, () => console.log("Created logo", filename));
+    fs.writeFile(filepath + data.text + '.svg', svgShape, () => console.log("Created logo", data.text));
 }
 
 let shapesList = [];
@@ -44,7 +41,6 @@ const questions = [
 async function init() {
     return await inquirer.prompt(questions)
         .then(async data => {
-            console.log("Response:",data);
             // assign name, text color, shape, and shape color from input
             saveSVG(data);
 
