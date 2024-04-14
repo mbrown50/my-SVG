@@ -13,15 +13,14 @@
   ## License
   
   License: MIT
+
+  [<img src="https://img.shields.io/badge/License-MIT-yellow.svg">](https://opensource.org/licenses/MIT)
   
-  Badge: https://img.shields.io/badge/License-MIT-yellow.svg
-  
-  Link: https://opensource.org/licenses/MIT
   
   ## Questions
 
-  Video: https://drive.google.com/file/d/1uYsxC07WzC6dlGTU-dKyGekfGzKrCoEJ/view
-  
   GitHub username: mbrown50
 
   GitHub Repo: https://github.com/mbrown50/my-SVG
+
+  Video: <### TBD ###>
